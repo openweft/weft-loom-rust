@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/openweft/brand/main/social/weft-loom-rust.png" alt="weft-loom-rust" width="720"></p>
+
 # weft-loom-rust
 
 Rust compile sandbox for weft-loom (rustc 1.85 stable + cargo). Consumed by [weft-loom-server](https://github.com/openweft/weft-loom-server) via weft-agent when a compile job picks this language.
